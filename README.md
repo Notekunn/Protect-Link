@@ -1,7 +1,9 @@
-##Protect-Link##
+##Protect-Link
+
 Ẩn link trong group với giao diện khác
+
 ---
-#DEMO:#
+#DEMO:
 
 *TRƯỚC ĐĂNG NHẬP*
 
