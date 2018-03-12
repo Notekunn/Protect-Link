@@ -11,5 +11,5 @@
 ![](https://i.imgur.com/6IV7Bpp.png "Sau đăng nhập")
 ---
 *HDSD*
--Chỉnh các thông số trong inc/db.php
--Upload data lên database
+- Chỉnh các thông số trong inc/db.php
+- Upload data lên database
