@@ -5,11 +5,11 @@
 ---
 #DEMO:
 
-*TRƯỚC ĐĂNG NHẬP*
+TRƯỚC ĐĂNG NHẬP
 
 ![](https://i.imgur.com/i1uUBjo.png "Trước đăng nhập") 
 
-*SAU ĐĂNG NHẬP*
+SAU ĐĂNG NHẬP
 ![](https://i.imgur.com/6IV7Bpp.png "Sau đăng nhập")
 ---
 *HDSD*
